@@ -1,0 +1,6 @@
+{
+  "name": "Sahifa Journal — Editorial Blog & Publishing Studio",
+  "description": "A modern editorial blog platform and publisher with a rich article composer, reading modes, engagement tools, and monetization ad slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
